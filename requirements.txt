@@ -1,0 +1,14 @@
+# Data Detective: Evidence-Driven Automated Root-Cause Analysis Platform
+pandas>=2.2.0
+numpy>=1.26.0
+scipy>=1.12.0
+statsmodels>=0.14.0
+scikit-learn>=1.4.0
+networkx>=3.2.0
+plotly>=5.19.0
+streamlit>=1.32.0
+openpyxl>=3.1.2
+python-dotenv>=1.0.0
+pytest>=8.0.0
+requests>=2.31.0
+groq>=0.9.0
