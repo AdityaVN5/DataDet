@@ -8,6 +8,7 @@ __pycache__/
 venv/
 ENV/
 env/
+.env.example
 
 # Environment files & Secrets (Crucial: never commit API keys!)
 .env
